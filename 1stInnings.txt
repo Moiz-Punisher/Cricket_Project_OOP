@@ -1,0 +1,8 @@
+Individual Score of Batsmen:
+0  0  0  25  13  0  0  0  0  0  6  
+In Overs:
+0  0  0  1.2  1  0  0  0  0  0  0.3  
+Individual Ballers Performance: 
+0  0  0  0  0  1  0  0  0  2  0  
+And Taken Wickets: 
+0  0  0  0  0  0  0  0  0  1  0
