@@ -20,7 +20,7 @@ To run the cricket simulation, follow these steps:
 
 Clone the repository to your local machine.
 Ensure you have a C++ compiler installed.
-Add these file----------
+Add these file "SupportStaffAndOthers.txt","Teams.txt","1stInnings.txt","2ndInnings.txt"
 Compile the main.cpp file using your preferred C++ compiler.
 Run the compiled executable.
 
